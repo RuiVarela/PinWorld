@@ -2,7 +2,7 @@
 PinWorld is 3d pin canvas. You can use it to create metashaders that control each pin heigh. 
 It is a simple 3d engine that uses raylib and raygui.
 
-https://github.com/RuiVarela/PinWorld/assets/11543973/d6b093fd-6c76-4179-b795-9c47216ee0c5
+https://raw.githubusercontent.com/RuiVarela/PinWorld/readme00.mp4
 
 ## Features
 - Fast pins renderer
